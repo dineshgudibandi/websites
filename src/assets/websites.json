@@ -1,0 +1,332 @@
+[
+  {
+    "name": "ChatGPT",
+    "link": "https://chat.openai.com/",
+    "description": "An AI chatbot that can answer questions, write essays, and more.",
+    "tags": [
+      "AI",
+      "Chatbot",
+      "OpenAI"
+    ]
+  },
+  {
+    "name": "DALL-E",
+    "link": "https://openai.com/dall-e-2/",
+    "description": "An AI that generates images from text descriptions.",
+    "tags": [
+      "AI",
+      "Image Generation",
+      "OpenAI"
+    ]
+  },
+  {
+    "name": "Google AI",
+    "link": "https://ai.google/",
+    "description": "Google's AI research and tools.",
+    "tags": [
+      "AI",
+      "Research",
+      "Google"
+    ]
+  },
+  {
+    "name": "Hugging Face",
+    "link": "https://huggingface.co/",
+    "description": "A platform for sharing and using machine learning models.",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Community"
+    ]
+  },
+  {
+    "name": "DeepAI",
+    "link": "https://deepai.org/",
+    "description": "A platform for AI research and applications.",
+    "tags": [
+      "AI",
+      "Research",
+      "Applications"
+    ]
+  },
+  {
+    "name": "SnazzyMaps",
+    "link": "https://snazzymaps.com/",
+    "description": "A collection of beautiful map styles for Google Maps.",
+    "tags": [
+      "Maps",
+      "Design",
+      "Google"
+    ]
+  },
+  {
+    "name": "Symbolab",
+    "link": "https://www.symbolab.com/",
+    "description": "An advanced math solver that provides step-by-step solutions.",
+    "tags": [
+      "Math",
+      "Solver",
+      "Education"
+    ]
+  },
+  {
+    "name": "ColorifyAI",
+    "link": "https://colorifyai.art/",
+    "description": "An AI tool that colorizes black and white images.",
+    "tags": [
+      "AI",
+      "Image Processing",
+      "Art"
+    ]
+  },
+  {
+    "name": "AI Dungeon",
+    "link": "https://play.aidungeon.io/",
+    "description": "An AI-powered text adventure game that generates stories based on your input.",
+    "tags": [
+      "Gaming",
+      "AI",
+      "Interactive"
+    ]
+  },
+  {
+    "name": "Runway ML",
+    "link": "https://runwayml.com/",
+    "description": "A platform for creative applications of machine learning.",
+    "tags": [
+      "AI",
+      "Creative",
+      "Machine Learning"
+    ]
+  },
+  {
+    "name": "Neal fun",
+    "link": "https://neal.fun/",
+    "description": "A collection of fun and interactive web experiments.",
+    "tags": [
+      "Web Experiments",
+      "Fun",
+      "Interactive"
+    ]
+  },
+  {
+    "name": "Emergent",
+    "link": "https://app.emergent.sh/",
+    "description": "An AI tool for generating and exploring ideas.",
+    "tags": [
+      "AI",
+      "Idea Generation",
+      "Exploration"
+    ]
+  },
+  {
+    "name": "Kiddoworksheets",
+    "link": "https://www.kiddoworksheets.com/",
+    "description": "A resource for printable worksheets and educational materials for kids.",
+    "tags": [
+      "Education",
+      "Worksheets",
+      "Kids"
+    ]
+  },
+  {
+    "name": "Margic Eraser",
+    "link": "https://www.magiceraser.pro/",
+    "description": "An AI tool for removing backgrounds from images.",
+    "tags": [
+      "AI",
+      "Image Editing",
+      "Background Removal"
+    ]
+  },
+  {
+    "name": "3d tuning",
+    "link": "https://3dtuning.com/",
+    "description": "A platform for customizing and tuning 3D models of cars.",
+    "tags": [
+      "3D Modeling",
+      "Cars",
+      "Customization"
+    ]
+  },
+  {
+    "name": "stock image",
+    "link": "https://www.stockimg.ai/",
+    "description": "A platform for generating and sharing stock images using AI.",
+    "tags": [
+      "AI",
+      "Stock Images",
+      "Image Generation"
+    ]
+  },
+  {
+    "name": "Radio Cast",
+    "link": "https://radiocast.co/",
+    "description": "A platform to listen to any public radio stations all over the world.",
+    "tags": [
+      "Podcast",
+      "Radio",
+      "Audio"
+    ]
+  },
+  {
+    "name": "Flourish",
+    "link": "https://flourish.studio/",
+    "description": "A platform for creating interactive data visualizations.",
+    "tags": [
+      "Data Visualization",
+      "Interactive",
+      "Design"
+    ]
+  },
+  {
+    "name": "labs google",
+    "link": "https://labs.google/lll/en",
+    "description": "A collection of Google AI experiments and tools.",
+    "tags": [
+      "AI",
+      "Experiments",
+      "Google"
+    ]
+  },
+  {
+    "name": "Meshy AI",
+    "link": "https://www.meshy.ai/",
+    "description": "An AI tool for creating and sharing 3D models.",
+    "tags": [
+      "AI",
+      "3D Modeling",
+      "Creative"
+    ]
+  },
+  {
+    "name": "My Fridge Food",
+    "link": "https://www.myfridgefood.com/",
+    "description": "A website that helps you find recipes based on the ingredients you have at home.",
+    "tags": [
+      "Cooking",
+      "Recipes",
+      "Food"
+    ]
+  },
+  {
+    "name": "Readdy",
+    "link": "https://readdy.ai/",
+    "description": "An AI tool for generating any website in minutes.",
+    "tags": [
+      "AI",
+      "Generation",
+      "Website"
+    ]
+  },
+  {
+    "name": "Recraft AI",
+    "link": "https://recraft.ai/",
+    "description": "An AI tool for generating and customizing digital art.",
+    "tags": [
+      "AI",
+      "Digital Art",
+      "Customization"
+    ]
+  },
+  {
+    "name": "mult dev",
+    "link": "https://mult.dev/",
+    "description": "A platform for creating and travel animations.",
+    "tags": [
+      "Web Development",
+      "Travel-animation",
+      "Applications"
+    ]
+  },
+  {
+    "name": "Manuals library",
+    "link": "https://www.manualslib.com/",
+    "description": "A comprehensive library of user manuals for various products.",
+    "tags": [
+      "Library",
+      "User Manuals",
+      "Products"
+    ]
+  },
+  {
+    "name": "AutoDraw",
+    "link": "https://www.autodraw.com/",
+    "description": "A web-based drawing tool that uses AI to guess what you're trying to draw.",
+    "tags": [
+      "Drawing",
+      "AI",
+      "Web Tool"
+    ]
+  },
+  {
+    "name": "remove photos",
+    "link": "https://remove.photos/",
+    "description": "An AI tool for removing backgrounds from photos.",
+    "tags": [
+      "AI",
+      "Image Editing",
+      "Background Removal"
+    ]
+  },
+  {
+    "name": "Deep Agent",
+    "link": "https://deepagent.abacus.ai/",
+    "description": "An AI tool for automating tasks and workflows.",
+    "tags": [
+      "AI",
+      "Automation",
+      "Workflows"
+    ]
+  },
+  {
+    "name": "AppAlchemy",
+    "link": "https://appalchemy.ai/",
+    "description": "An AI tool for generating and optimizing mobile app designs.",
+    "tags": [
+      "AI",
+      "Mobile Apps",
+      "Design"
+    ]
+  },
+  {
+    "name": "Codex",
+    "link": "https://codedex.io",
+    "description": "An AI tool for generating and optimizing code snippets.",
+    "tags": [
+      "AI",
+      "Code Generation",
+      "Development"
+    ]
+  },
+  {
+    "name": "Keybr",
+    "link": "https://www.keybr.com/",
+    "description": "A web-based typing tutor that helps you improve your typing skills.",
+    "tags": [
+      "Typing",
+      "Education",
+      "Web Tool"
+    ]
+  },
+  {
+    "name": "Mounteverest",
+    "link": "https://mount-everest3d.com/",
+    "description": "A platform for exploring and visualizing 3D models of Mount Everest.",
+    "tags": [
+      "3D Modeling",
+      "Mount Everest",
+      "Exploration"
+    ]
+  },
+  {
+    "name": "Human Benchmark",
+    "link": "https://www.humanbenchmark.com/",
+    "description": "A collection of tests to measure your cognitive abilities and skills.",
+    "tags": [
+      "Cognitive Skills",
+      "Testing",
+      "Education"
+    ]
+  }
+]
