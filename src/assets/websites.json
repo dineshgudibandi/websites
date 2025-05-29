@@ -328,5 +328,95 @@
       "Testing",
       "Education"
     ]
+  },
+  {
+    "name": "Imagine Explainers",
+    "link": "https://imagineexplainers.com/",
+    "description": "A platform for creating and sharing animated explainers.",
+    "tags": [
+      "Animation",
+      "Explainers",
+      "Creative"
+    ]
+  },
+  {
+    "name": "lighthut",
+    "link": "https://lighthut.com/",
+    "description": "A platform for creating and sharing interactive web experiences.",
+    "tags": [
+      "Web Development",
+      "Interactive",
+      "Creative"
+    ]
+  },
+  {
+    "name": "Higgsfield",
+    "link": "https://higgsfield.ai/",
+    "description": "A platform for learning and experimenting with AI and machine learning.",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Education"
+    ]
+  },
+  {
+    "name": "Formia",
+    "link": "https://formia.so/",
+    "description": "An AI tool for generating 3D logos.",
+    "tags": [
+      "AI",
+      "3D Logos",
+      "Design"
+    ]
+  },
+  {
+    "name": "car care kiosk",
+    "link": "https://www.carcarekiosk.com/",
+    "description": "A platform for checking vehicle maintenance and repair information.",
+    "tags": [
+      "Vehicle Maintenance",
+      "Repair Information",
+      "Automotive"
+    ]
+  },
+  {
+    "name": "Gamma",
+    "link": "https://gamma.app/",
+    "description": "A platform for creating and sharing interactive presentations.",
+    "tags": [
+      "Presentations",
+      "Interactive",
+      "Design"
+    ]
+  },
+  {
+    "name": "virtual vacation",
+    "link": "https://virtualvacation.us/",
+    "description": "A platform for exploring virtual vacations around the world.",
+    "tags": [
+      "Virtual Reality",
+      "Travel",
+      "Exploration"
+    ]
+  },
+  {
+    "name": "Online Tools",
+    "link": "https://10015.io",
+    "description": "A platform for creating and sharing interactive web applications.",
+    "tags": [
+      "Web Development",
+      "Interactive",
+      "Applications"
+    ]
+  },
+  {
+    "name": "Data Button",
+    "link": "https://databutton.com/",
+    "description": "A platform for creating websites.",
+    "tags": [
+      "Web Development",
+      "Interactive",
+      "Design"
+    ]
   }
 ]
