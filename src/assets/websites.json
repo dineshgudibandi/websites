@@ -418,5 +418,115 @@
       "Interactive",
       "Design"
     ]
+  },
+  {
+    "name": "Thiings",
+    "link": "https://www.thiings.co/",
+    "description": "A platform for downloading high quality images.",
+    "tags": [
+      "Images",
+      "web",
+      "Download"
+    ]
+  },
+  {
+    "name": "Typing bird",
+    "link": "https://typingbird.com/",
+    "description": "A web-based typing tutor that helps you improve your typing skills.",
+    "tags": [
+      "Typing",
+      "Education",
+      "Web Tool"
+    ]
+  },
+  {
+    "name": "Pixie Haus",
+    "link": "https://pixie.haus/",
+    "description": "A platform for creating and sharing pixel art.",
+    "tags": [
+      "Pixel Art",
+      "Creative",
+      "Art"
+    ]
+  },
+  {
+    "name": "Anime JS",
+    "link": "https://animejs.com/",
+    "description": "A lightweight JavaScript animation library for creating complex animations.",
+    "tags": [
+      "JavaScript",
+      "Animation",
+      "Web Development"
+    ]
+  },
+  {
+    "name": "Staying Fun",
+    "link": "https://staying.fun/en",
+    "description": "Visualize Data Structures & Algorithms in RealTime",
+    "tags": [
+      "Data Structures",
+      "Algorithms",
+      "Visualization"
+    ]
+  },
+  {
+    "name": "PDF tools",
+    "link": "http://stirlingpdf.io/",
+    "description": "A collection of tools for working with PDF files.",
+    "tags": [
+      "PDF",
+      "Tools",
+      "File Management"
+    ]
+  },
+  {
+    "name": "React Bits",
+    "link": "https://reactbits.dev/",
+    "description": "A collection of React patterns, techniques, tips, and tricks.",
+    "tags": [
+      "React",
+      "Development",
+      "Patterns"
+    ]
+  },
+  {
+    "name": "PNGIMG",
+    "link": "https://pngimg.com/",
+    "description": "A platform for downloading high-quality PNG images.",
+    "tags": [
+      "Images",
+      "PNG",
+      "Download"
+    ]
+  },
+  {
+    "name": "Instructables",
+    "link": "https://www.instructables.com/",
+    "description": "A platform for sharing DIY projects and tutorials.",
+    "tags": [
+      "DIY",
+      "Tutorials",
+      "Community"
+    ]
+  },
+  {
+    "name": "Topo Expert",
+    "link": "https://topoexpert.com/",
+    "description": "A platform for creating and sharing topographic maps.",
+    "tags": [
+      "Maps",
+      "Topographic",
+      "Creative"
+    ]
+  },
+  {
+    "name": "Lingo Hut",
+    "link": "https://lingohut.com/",
+    "description": "A platform for learning languages through interactive lessons.",
+    "tags": [
+      "Language Learning",
+      "Education",
+      "Interactive"
+    ]
   }
 ]
